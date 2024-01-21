@@ -16,6 +16,8 @@ The following shows the model performance:
 
 ![trainingValidationAccuracy](https://github.com/Nishat5349/butterflyClassification/assets/72455268/62617d41-e21e-46a7-9cc8-e0ebe7073f3a)
 
+## I have launched a Gradio based ML app on this...check it out here "https://github.com/Nishat5349/ML-app-for-Classification"
+
 
 
 
